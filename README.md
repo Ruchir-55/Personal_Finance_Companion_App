@@ -65,10 +65,16 @@ A simple yet powerful Android application built using Java that helps users trac
 (Home.jpg)
 
 ### 🔹 Add Transaction
-![Add](screenshots/add.png)
+AddTransaction(Expense).jpg
+AddTransaction(Income).jpg
+
 
 ### 🔹 Insights Dashboard
-![Insights](screenshots/insights.png)
+(Insights.jpg)
+
+### 🔹 Change Theme
+(ChangeTheme(Light).jpg)
+(ChangeTheme(Dark).jpg)
 
 ---
 
