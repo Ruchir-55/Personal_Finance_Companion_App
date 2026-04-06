@@ -59,33 +59,8 @@ A simple yet powerful Android application built using Java that helps users trac
 
 ## 🖼️ Screenshots
 
-> *(Add your screenshots here)*
-
 ### 🔹 Home Screen
 ![Home Screen](Home.jpg)
-
-### 🔹 Add Transaction
-Yeah — this is a very common GitHub README issue. The problem is not your images, it’s the Markdown syntax + file path.
-
-Right now you wrote things like:
-
-(Home.jpg)
-
-👉 That does nothing in Markdown.
-
-✅ ✅ CORRECT WAY TO SHOW IMAGES IN README
-
-You must use this format:
-
-![Alt Text](path/to/image)
-🔧 FIX YOUR README (BASED ON YOUR FILE NAMES)
-
-Assuming your images are in a folder called screenshots/, use this:
-
-## 🖼️ Screenshots
-
-### 🔹 Home Screen
-![Home Screen](screenshots/Home.jpg)
 
 ### 🔹 Add Transaction (Expense)
 ![Expense]AddTransaction(Expense).jpg
