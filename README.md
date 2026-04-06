@@ -62,7 +62,7 @@ A simple yet powerful Android application built using Java that helps users trac
 > *(Add your screenshots here)*
 
 ### 🔹 Home Screen
-![Home](screenshots/home.png)
+(Home.jpg)
 
 ### 🔹 Add Transaction
 ![Add](screenshots/add.png)
