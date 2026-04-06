@@ -62,10 +62,9 @@ A simple yet powerful Android application built using Java that helps users trac
 ### 🔹 Home Screen
 ![Home Screen](Home.jpg)
 
-### 🔹 Add Transaction (Expense)
+### 🔹 Add Transaction
 ![Expense]AddTransaction(Expense).jpg
 ![Income]AddTransaction(Income).jpg
-
 
 ### 🔹 Insights Dashboard
 ![Insights](Insights.jpg)
